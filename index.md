@@ -1,10 +1,10 @@
-## AVERtek's XR-NOW Technology 
+## AVERtek's XR-NOW Technology <a href="https://avertek.net/xr-asap-%26-xr-now">
 
 ---
 
 ### Community Name Here
 
-<a href="https://avertek.net/contact-us">Contact Us Today for a Personal Tour & Gift</a> 
+<a href="https://avertek.net/contact-us">Contact Us Today for a Personal Tour and Gift</a> 
   <br><br>
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
