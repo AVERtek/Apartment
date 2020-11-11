@@ -1,8 +1,8 @@
-## AVERtek 
+## AVERtek's XR-NOW Technology 
 
 ---
 
-### Apartment
+### Community Name Here
 
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
