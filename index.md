@@ -1,4 +1,4 @@
-<a href="https://avertek.net/xr-asap-%26-xr-now">## AVERtek's XR-NOW Technology
+<a href="https://avertek.net/xr-asap-%26-xr-now"> AVERtek's XR-NOW Technology
 
 ---
 
