@@ -4,7 +4,7 @@
 
 ### Community Name Here
 
-<a href="https://osicreative.com">OSI Building Brands; Growing Business</a> 
+<a href="https://avertek.net/contact-us">Contact Us Today for a Personal Tour & Gift</a> 
   <br><br>
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
