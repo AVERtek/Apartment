@@ -2,9 +2,9 @@
 
 ---
 
-### Community Name Here
+### Your Community Name Here
 
-<a href="https://avertek.net/contact-us">Step 4- Contact Us for a Personal Tour; Receive a Free Gift</a> 
+<a href="https://avertek.net/contact-us">STEP 4- Contact Us for a Personal Tour; Receive a Free Gift</a> 
   <br><br>
 <!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
